@@ -4,13 +4,34 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      nav ul {
+        display: flex;
+      }
+      ul li {
+        margin-right: 10px;
+      }
+    </style>
     <title>Exploring Form in HTML</title>
   </head>
   <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="first.html">First</a></li>
+          <li><a href="form.html">Login</a></li>
+          <li><a href="semantic.html">Semantic</a></li>
+        </ul>
+      </nav>
+    </header>
     <h1>Hello There,</h1>
     <p>Register now to explore more</p>
     <form>
-      <input type="text" placeholder="name" />
+      <label for="name"
+        >Whats Your Name?
+        <input type="text" placeholder="name" id="name" />
+      </label>
+
       <br />
       <br />
       <input type="email" placeholder="email" />
@@ -20,14 +41,27 @@
       <br />
       <br />
       <input type="password" placeholder="password" />
-      <br />
-      <br />
+
       <select name="" id="">
         <option value="Facebook">Facebook</option>
         <option value="Twitter" selected>Twitter</option>
         <option value="">LinkedIn</option>
         <option value="">Quara</option>
       </select>
+
+      <label>
+        <input type="checkbox" name="" id="" />
+        I agree toTerms and conditions, Refund policy &Privacy Policy
+      </label>
+      <br />
+      <br />
+      <label>
+        <input type="radio" name="" id="" />
+        I agree toTerms and conditions, Refund policy &Privacy Policy
+      </label>
+
+      <br />
+      <br />
       <input type="submit" value="Login" />
     </form>
   </body>
