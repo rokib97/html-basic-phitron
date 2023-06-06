@@ -1,0 +1,46 @@
+Welcome To The World Of HTML.
+
+#Level One 
+1) Web Application:  
+    1) FrontEnd  . HTML CSS CSS FRAMEWROK JS => react/vue.
+    2) backend . Django, Node js(express js) ,laravel. 
+    3) Database. mongodb , SQL(postgreSSQL)
+
+2) Setup ( Vs Code, prettier, live Server)
+3) Explore The First Website in the world.(🥇)
+
+[Bonus: Github Explore as a Beginner]
+
+#Level Two
+1) HTML => HyperText Markup Language.(Explore <!DOCTYPE html>) 
+2) Paragraphs, bold vs strong, italic, small.
+3) Headings And Semantic Tag Inline And Block Elements.
+4) Html Link Anchor Tag, Href, Target Attributes.
+5)Image Tag With Attributes Display Online Image, Local Image, Folder Image
+6) List Items, Container Tag(div,ul,ol), Ordered List, Unordered List.
+7)HTML forms: input types, buttons and text field, select, option.
+
+
+
+#Level Three
+8)HTML5 Audio, video, youtube video, embed iframe
+9) HTML5 Semantic tags: section article header footer main
+10)Simple navbar and internal navigation among files.
+TODO 
+11)All html tags, everything you need to know about html. 
+12) All html attributes Title attribute, comments, alt, data
+13)summary and Discussion.
+
+
+TODO : 1) Design A Suitable Form For Application Submit.
+        2) Design A Suitable HTML Table
+
+
+
+Resourses:
+Bangla => https://www.youtube.com/watch?v=BSvo4i5t-Kg&t=2876s
+English => 
+1) https://www.youtube.com/watch?v=N8YMl4Ezp4g&t=772s&pp=ygUSaHRtbCBjcnVzaCBjb3Vyc2Ug
+
+2) https://www.youtube.com/watch?v=qz0aGYrrlhU&t=964s&pp=ygUSaHRtbCBjcnVzaCBjb3Vyc2Ug
+
